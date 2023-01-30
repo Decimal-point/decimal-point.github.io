@@ -1,0 +1,1 @@
+const e={key:"v-eed037f0",path:"/md/spring/spring-framework-ioc.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"md/spring/spring-framework-ioc.md"};export{e as data};

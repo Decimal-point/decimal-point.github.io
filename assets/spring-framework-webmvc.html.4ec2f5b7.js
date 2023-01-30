@@ -1,0 +1,1 @@
+const e={key:"v-44d18ff2",path:"/md/spring/spring-framework-webmvc.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"md/spring/spring-framework-webmvc.md"};export{e as data};

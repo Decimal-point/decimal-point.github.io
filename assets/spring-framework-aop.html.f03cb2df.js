@@ -1,0 +1,1 @@
+const t={key:"v-5fbd7d23",path:"/md/spring/spring-framework-aop.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"md/spring/spring-framework-aop.md"};export{t as data};

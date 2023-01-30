@@ -1,0 +1,1 @@
+import{o as r,c as e}from"./app.c42d46e0.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function n(t,a){return r(),e("p",null,"hello spring framework ioc")}var l=o(c,[["render",n]]);export{l as default};

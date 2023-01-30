@@ -1,0 +1,1 @@
+import{o as r,c as e}from"./app.c42d46e0.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const a={};function c(n,t){return r(),e("p",null,"hello spring framework aop")}var _=o(a,[["render",c]]);export{_ as default};

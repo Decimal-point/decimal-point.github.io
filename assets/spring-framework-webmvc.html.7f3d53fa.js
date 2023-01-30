@@ -1,0 +1,1 @@
+import{o as r,c as s,F as o,a as e}from"./app.c42d46e0.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const a={},c=e("p",null,"hello spring framework mvc",-1),n=e("p",null,"sdfsdfdfsfs",-1);function _(l,f){return r(),s(o,null,[c,n],64)}var p=t(a,[["render",_]]);export{p as default};
